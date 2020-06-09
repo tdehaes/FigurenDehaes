@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fig.Model", "Fig.Model\Fig.Model.csproj", "{0705ECA8-8BE8-42D5-93AB-B141CE3D300E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fig.WPFapp", "Fig.WPFapp\Fig.WPFapp.csproj", "{117378DB-023D-4E92-9E9A-5C268526D012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0705ECA8-8BE8-42D5-93AB-B141CE3D300E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0705ECA8-8BE8-42D5-93AB-B141CE3D300E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0705ECA8-8BE8-42D5-93AB-B141CE3D300E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0705ECA8-8BE8-42D5-93AB-B141CE3D300E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117378DB-023D-4E92-9E9A-5C268526D012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117378DB-023D-4E92-9E9A-5C268526D012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117378DB-023D-4E92-9E9A-5C268526D012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117378DB-023D-4E92-9E9A-5C268526D012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8771B5CA-2CFB-4BF4-9C53-DEA241759B5C}
+	EndGlobalSection
+EndGlobal
